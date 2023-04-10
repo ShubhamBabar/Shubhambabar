@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- - 👋 Hi,I'm Shubham Babar.
+- 👋 Hi,I'm Shubham Babar.
 - 👁👁 I'm interested in java programming.
 - 🌱 I’m currently pursuing degree in computer science and engineering. 
 
