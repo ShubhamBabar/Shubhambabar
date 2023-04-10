@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- - 👋 Hi,I'm Shubham Babar.
+- 👁👁 I'm interested in java programming.
+- 🌱 I’m currently pursuing degree in computer science and engineering. 
+
+
